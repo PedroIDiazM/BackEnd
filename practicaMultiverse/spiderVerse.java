@@ -1,6 +1,6 @@
 public class spiderVerse {
     public static void main(String[] args)/* throws InterruptedException */{
-        // abre 4 ventanas | imagen "default.png" por si no encuentro las fotos
+        // Se abren 4 ventanas:
         testSP(); // ventana spider-man (original)
         testSk(); // ventana silk
         testSt(); // ventana Scarlet
