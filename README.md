@@ -4,6 +4,7 @@ En este repositorio dejo todo lo desarrollado en Misión BackEnd de launchX.
 Las primeras fueron de ejemplo y para empezar a desarrollar la lógica.
 
 - Como modelar el juguete de un Huevo Kinder.
+- O modelar objetos del super mercado.
 
 Después de manera más estructurada se asignaron:
 
